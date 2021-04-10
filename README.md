@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=vijinpaulraj&label=Profile Views&color=blue&style=flat" alt="VijinPaulraj" />
 <p align="left">
   
-  <a href="www.linkedin.com/in/VijinPaulraj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/VijinPaulraj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/vijinpaulraj" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
